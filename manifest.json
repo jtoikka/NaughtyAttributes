@@ -1,0 +1,12 @@
+{
+    "name": "com.jtoikka.naughtyattributes",
+    "displayName": "Naughty Attributes",
+    "version": "0.0.1",
+    "unity": "2017.1",
+    "description": "Additional useful attributes",
+    "keywords": [
+        "attributes",
+        "unity"
+    ],
+    "category": "Unity"
+}
